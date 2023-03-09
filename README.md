@@ -3,7 +3,12 @@
 Moved to [github.com/uber/bazel-zig-cc](https://github.com/uber/bazel-zig-cc).
 A copy of the [announcement][1]:
 
----
+```
+From: Motiejus Jakštys <motiejus@jakstys.lt>
+Date: Wed, 8 Mar 2023 16:47:57 +0200
+Subject: bazel-zig-cc moved to github.com/uber
+To: ~motiejus/bazel-zig-cc@lists.sr.ht
+```
 
 Hi folks,
 
